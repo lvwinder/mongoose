@@ -1,0 +1,24 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvwinder/mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvwinder/mongoose/issues"
+  },
+  "homepage": "https://github.com/lvwinder/mongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.2"
+  }
+}
